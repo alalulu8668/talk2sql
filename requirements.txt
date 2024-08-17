@@ -1,0 +1,6 @@
+greenlet
+psycopg[async]
+sqlalchemy
+asyncpg
+pandas
+faker

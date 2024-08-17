@@ -1,0 +1,10 @@
+name: patient_records
+description: Table containing patient records with detailed medical data.
+columns:
+  id: The ID of the patient record.
+  name: The name of the patient.
+  age: The age of the patient.
+  patient_id: The unique patient ID.
+  symptoms: The symptoms of the patient.
+  ct_image_file: The filename of the CT image.
+  image_path: The file path of the CT image.
